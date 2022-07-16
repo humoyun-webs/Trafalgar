@@ -1,0 +1,690 @@
+*{
+    margin: 2px;
+    padding: 0;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 1px 1px 2px white;
+   
+    
+    
+    
+}
+body{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+
+.step1{
+    margin: 50px 200px ;
+    display: inline-block;
+    
+    
+    
+}
+
+
+.menu{
+    margin: -35px -35px 0 950px;
+    
+    display: flex;
+    word-spacing: 2px;
+    list-style-type: none;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.bacground_photo{
+  margin: 70px 0px 0px 900px ;
+  
+}
+.nuqtalar{
+    position: relative;
+    margin-top: -570px;
+    margin-left: -190px;
+}
+.Sarlavha{
+    font-size: 2em;
+}
+.button{
+    position: relative;
+    height: 40px;
+    width: 170px;
+    border-radius: 25px;
+    color: aliceblue;
+    text-align: center;
+    font-size: large;
+    background-color: #458FF6;
+    box-shadow: 1px 1px 10px #458FF6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    padding-top: 13px;
+    cursor: pointer;
+    
+
+    
+}
+.button:hover{
+    position: relative;
+    height: 40px;
+    width: 190px;
+    letter-spacing: 2px;
+    transition: 0.8s;
+    text-shadow: 1px 1px 2px;
+    transform: rotateX(5px);
+    background-color: white;
+    color: #458FF6;
+    border-color: blueviolet;
+    border-radius: 35px;
+
+}
+
+.step2{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: 400px;
+    
+}
+.solid{
+ display: inline-block;
+
+
+}
+.text{
+    position: relative;
+}
+.nuqtalar2{
+   position: relative;
+   margin-top: -400px;
+   margin-left: 1300px;
+}
+.menu1{
+    position: relative;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    margin-left: 700px;
+    margin-top: -400px;
+    border-radius: 25px;
+    padding: 20px ;
+    cursor: pointer;
+    
+}
+.menu1:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.menu2{
+    position: relative;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    margin-left: 350px;
+    margin-top: -340px;
+    border-radius: 25px;
+    padding: 20px ;
+    cursor: pointer;
+}
+.menu2:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.menu3{
+    position: relative;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    border-radius: 25px;
+    margin-top: -345px;
+    margin-left: 1050px;
+    padding: 20px ;
+    cursor: pointer;
+
+   
+}
+.menu3:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.secon_menu{
+    margin: 10px;
+}
+.menu4{
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    border-radius: 25px;
+    margin-top: 20px ;
+    margin-left: 1050px;
+    padding: 20px ;
+    cursor: pointer;
+
+}
+.menu4:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.menu5{
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    border-radius: 25px;
+    margin-left: -640px;
+    margin-top: -20px;
+    padding: 20px ;
+    cursor: pointer;
+}
+.menu5:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.menu6{
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+    background-color: rgba(240, 237, 236, 0.969);
+    border-radius: 25px;
+    margin-left: -650px;
+    margin-top: 70px;
+    padding: 20px ;
+    cursor: pointer;
+}
+.menu6:hover{
+    box-shadow: 0px 0px 10px #458FF6;
+    transition: 0.5s;
+}
+.bacground_photo5{
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    
+
+}
+.home{
+    position: relative;
+    font-weight: bolder;
+    
+}
+.home:hover{
+    font-size: 25px;
+    font-weight: 900;
+    transition: 0.4s;
+
+}
+.find:hover{
+    font-size: 25px;
+    font-weight: 900;
+    transition: 0.4s;
+    
+}
+.Apps:hover{
+    font-size: 25px;
+    font-weight: 900;
+    transition: 0.4s;
+}
+.Testiminals:hover{
+    font-size: 25px;
+    font-weight: 900;
+    transition: 0.4s;
+}
+.About:hover{
+    font-size: 25px;
+    font-weight: 900;
+    transition: 0.4s;
+}
+.button2{
+    /* position: relative;
+    height: 40px;
+    width: 170px;
+    background-color: white;
+    border: 2px solid #458FF6;
+    border-radius: 25px;
+    padding-top: 10px;
+    color: #458FF6;
+    margin: auto;
+    margin-top: 50px;
+    cursor: pointer;
+    text-align: center; */
+
+    position: relative;
+    height: 46px;
+    width: 190px;
+    border-radius: 25px;
+    color: #458FF6;
+    text-align: center;
+    font-size: large;
+    background-color: white;
+    box-shadow: 1px 1px 10px #458FF6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+    cursor: pointer;
+    border-color: blueviolet;
+    margin: auto;
+    margin-top: 50px;
+    
+
+    
+
+}
+.button2:hover{
+    /* color: white;
+    background-color:#458FF6 ;
+    border-color: cornflowerblue;
+    transition: 0.2s; */
+
+    position: relative;
+    height: 46px;
+    width: 190px;
+    transition: 0.8s;
+    text-shadow: 1px 1px 2px;
+    transform: rotateX(5px);
+    background-color: #458FF6;
+    color: white;
+    border-color: blueviolet;
+    border-radius: 35px;
+}
+.bacground_photo6{
+    position: relative;
+    margin-top: 170px;
+    float: left;
+    width: 50%;
+}
+.Sarlavha3{
+    font-size: 2em;
+    color: black;
+
+}
+.Leading_text{
+    position: relative;
+    color: gray;
+    margin-top: 200px;
+    font-size: 20px;
+    margin-left: 50px;
+
+
+}
+.button3{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    border-radius: 25px;
+    color: #458FF6;
+    text-align: center;
+    font-size: large;
+    background-color: white;
+    box-shadow: 1px 1px 10px #458FF6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+    padding-left: -50px;
+    cursor: pointer;
+    
+    border-color: blueviolet;
+    margin-left: 790px;
+    margin-top: 60px;
+    
+}
+.button3:hover{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    transition: 0.8s;
+    text-shadow: 1px 1px 2px;
+    transform: rotateX(5px);
+    background-color: #458FF6;
+    color: white;
+    border-color: blueviolet;
+    border-radius: 35px;
+}
+.nuqtalar3{
+    position: relative;
+    margin-left: 1550px;
+}
+.bacground_photo7{
+  position: relative;
+  float: right;
+  margin: auto;
+  width: 50%;
+  padding-left: 100px;
+  margin-top: -400px;
+}
+.Sarlavha4{
+    margin-top: 170px;
+    font-size: 2em;
+    margin-left: 200px;
+    color: black;
+    font-weight: 900;
+}
+.text5{
+    color: gray;
+    font-size: 20px;
+
+}
+.button4{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    border-radius: 25px;
+    color: #458FF6;
+    text-align: center;
+    font-size: large;
+    background-color: white;
+    box-shadow: 1px 1px 10px #458FF6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+    padding-left: -50px;
+    cursor: pointer;
+    border-color: blueviolet;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.button4:hover{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    transition: 0.8s;
+    text-shadow: 1px 1px 2px;
+    transform: rotateX(5px);
+    background-color: #458FF6;
+    color: white;
+    border-color: blueviolet;
+    border-radius: 35px;
+}
+
+.square{
+    position: relative;
+    height: 400px;
+    width: 1200px;
+    background-color: #458FF6;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 200px;
+}
+.oq_nuqtalar{
+    position: relative;
+    margin-left: 1120px;
+    margin-top: -170px;
+}
+.kok_sarlavha{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: white;
+    
+
+}
+.human{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: 0px 0px 50px white ;
+    display: inline-block;
+    border-radius: 100px;
+    border: 2.5px solid white;
+    
+}
+.nuqtalar4{
+    position: relative;
+    margin-top: -180px;
+    margin-left: 110px;
+    background-image: -moz-element(#458FF6);
+}
+.Avtor_name{
+    position: relative;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 48px;
+color: white;
+padding-left: 350px;
+padding-bottom: 200px ;
+margin-top: -140px;
+}
+.founder{
+    position: absolute;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 48px;
+color: white;
+margin-top: -190px;
+margin-left: 350px;
+}
+.square_text{
+    position: absolute;
+  
+margin-top: -260px;
+margin-left: 700px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+color: rgba(255, 255, 255, 0.9);
+mix-blend-mode: normal;
+}
+.cursor_nuqta{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 790px;
+}
+.cursor_onga{
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -25px;
+}
+.cursor_chapga{
+    position: relative;
+    margin-left: 640px;
+    margin-top: -30px;
+}
+.Sarlavha5{
+    position: relative;
+    margin-top: 250px;
+    text-align: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+.ending_bacground_photo{
+    position: relative;
+    margin-left: 900px;
+    margin-top: -50px;
+    
+   
+}
+.cards{
+    display: flex;
+    margin-top: -700px;
+    margin-left: 180px;
+    position: absolute;
+    
+    
+}
+.card1{
+     position: relative;
+    width: 350px;
+    height: 512px;
+    margin: 50px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    
+    
+    margin-top: 0px; 
+     box-shadow: 0px 0px 5px  gray ;
+    
+    cursor: pointer;
+    
+}
+.card2{
+     position: relative;
+     width: 350px;
+     height: 512px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: 50px;
+     box-shadow: 0px 0px 10px gray ; 
+    cursor: pointer;
+}
+.card3{
+    position: relative;
+    width: 350px;
+    height: 512px;
+   background-color: #ffffff;
+   border-radius: 20px;
+   margin: 50px;
+    box-shadow: 0px 0px 10px gray ; 
+   cursor: pointer;
+}
+.button5{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    border-radius: 25px;
+    color: #458FF6;
+    text-align: center;
+    font-size: large;
+    background-color: white;
+    box-shadow: 1px 1px 10px #458FF6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+    padding-left: -50px;
+    cursor: pointer;
+    border-color: blueviolet;
+    margin-top: 50px;
+    margin-left: 750px;
+}
+.button5:hover{
+    position: relative;
+    height: 46px;
+    width: 190px;
+    transition: 0.8s;
+    text-shadow: 1px 1px 2px;
+    transform: rotateX(5px);
+    background-color: #458FF6;
+    color: white;
+    border-color: blueviolet;
+    border-radius: 35px;
+}
+/* .footer{
+    margin-top: 200px;
+    height: 500px;
+    position: relative;
+    width: 2600px;
+    margin-left: -300px;
+    background-color: #458FF6;
+}
+
+.trafalgar_logo2{
+    position: relative;
+    padding-top: 100px;
+    padding-left: 200px;
+
+}
+.trafalgar_text1{
+    position: relative;
+ padding-left: 200px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+} */
+
+.bacground_blue{
+    position: absolute;
+width: 2000px;
+height: 432px;
+left: 0px;
+top: 5738px;
+
+background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+.trafalgar_logo2{
+    position: relative;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.trafalgar_text1{
+    position: relative;
+ padding-left: 200px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+color: white;
+padding-top: 10px;
+}
+.short_text{
+    position: relative;
+    padding-left: 200px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: white;
+    padding-top: 50px;
+
+}
+.royhat{
+    position: relative;
+    margin-top: -220px;
+    margin-left: 900px;
+    font-size: 18px;
+    list-style-type: none;
+    color: white;
+    
+}
+.Company{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+     
+}
+.royhat2{
+    margin-top: -210px;
+    margin-left: 1200px;
+    font-size: 18px;
+    list-style-type: none;
+    color: white;
+    
+}
+.royhat3{
+margin-top: -210px;
+margin-left: 1500px;
+font-size: 18px;
+list-style-type: none;
+color: white;
+}
+.oq_nuqtalar2{
+    margin-left: 70px;
+    margin-left: 10px;
+    margin-top: -40px;
+}
+.nuqtalar3{
+    position: absolute;
+}
